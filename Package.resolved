@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/vapor/clibressl.git",
         "state": {
           "branch": null,
-          "revision": "23ddb296981d17a8ee6c7418742a40cad5d2f9d0",
-          "version": "1.0.0"
+          "revision": "9ebe7fffd3f7d3cd3377696aeaa867a77f2418dd",
+          "version": "1.0.1"
         }
       },
       {
@@ -30,11 +30,11 @@
       },
       {
         "package": "Prorsum",
-        "repositoryURL": "https://github.com/noppoMan/Prorsum.git",
+        "repositoryURL": "https://github.com/powderhouse/Prorsum.git",
         "state": {
           "branch": null,
-          "revision": "b278e88142a3b5a87feabc44b6522dabfcda8f99",
-          "version": "0.3.3"
+          "revision": "56ceceaa8062504aa3fde6d50533a780aa732052",
+          "version": "0.0.1"
         }
       },
       {
