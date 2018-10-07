@@ -8,7 +8,7 @@ let package = Package(
         Target(name: "AWSSDKSwiftCore")
     ],
     dependencies: [
-        .Package(url: "https://github.com/powderhouse/Prorsum.git", .exactly("0.0.1")),
+        .Package(url: "https://github.com/powderhouse/Prorsum.git", .exactly("0.0.2")),
         .Package(url: "https://github.com/noppoMan/HypertextApplicationLanguage.git", majorVersion: 1)
     ]
 )
